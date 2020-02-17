@@ -2,7 +2,7 @@
 WARNING: spaghetti code.
 """
 
-import exit
+from sys import exit
 import numpy as np
 import pickle
 import os
